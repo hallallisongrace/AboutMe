@@ -1,0 +1,156 @@
+
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+img{width: 300px;
+    border-style: solid;
+    border-color: blanchedalmond;
+    
+}
+
+.lemonchiffon-background{
+      background-color: lemonchiffon;
+      }
+
+h1 {
+text-align: center;
+font-size: 50px;
+font-weight: 500;
+font-family:cursive;
+
+  }
+
+
+h2{
+text-align: center;
+font-size: 35px;
+font-weight: 500;
+font-family:cursive;
+position: relative;
+bottom: 40px;
+}
+
+
+h3{
+font-size: 25px;
+font-weight: 200;
+font-family:cursive;
+text-align: center;
+position: relative;
+bottom: 50px
+}
+
+p{
+font-size: 15px;
+font-weight: 200;
+font-family:fantasy;
+text-align: center;
+position: relative;
+bottom: 60px
+}
+
+  header {
+      background-color: lavenderblush;
+      color: white;
+      padding: 1.00em;
+    }
+
+    footer {
+      background-color:rgb(231, 227, 227);
+      color: white;
+      padding: 1.00em;
+    }
+
+    .myself {
+    display: block;
+    margin: auto;
+}
+
+div .myself {
+    display: block;
+    align-items: center;
+}
+</style>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap" rel="stylesheet" type="text/css">
+<style>
+    .lavender-background{
+        background-color:lavender
+        
+    }
+
+    header {
+      background-color: lavenderblush;
+      color: white;
+      padding: 1.00em;
+      font-size: 50px;
+    }
+
+    footer {
+      background-color:rgb(240, 236, 236);
+      color: white;
+      padding: 1.00em;
+    }
+
+img{width: 100px;
+border-radius: 20px;
+border-style: solid;
+    border-color: blanchedalmond
+}
+
+
+h2{font-size: 16px;
+    font-family: cursive;}
+
+    li{font-family:fantasy}
+
+    header{font-family:'Mrs Saint Delafield'}
+
+ul{font-weight: 2000;
+    font-size: 15px;
+}
+
+
+
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap" rel="stylesheet" type="text/css">
+<style>
+
+img{width: 100px;
+border-radius:20px;
+border-style: solid;
+    border-color: blanchedalmond;
+    }
+
+    header {
+      background-color: lavenderblush;
+      color: white;
+      padding: 1.00em;
+      font-size: 50px;
+    }
+
+
+    h2{font-size: 16px;
+    font-family: cursive;
+    }
+
+    li{font-family:fantasy}
+
+    header{font-family:'Mrs Saint Delafield'}
+
+    .pink-background{
+        background-color:pink
+    }
+
+    ul{font-weight: 2000;
+    font-size: 15px;
+    }
+
+    footer {
+      background-color:rgb(231, 227, 227);
+      color: white;
+      padding: 1.00em;
+    }
+</style>
