@@ -1,8 +1,16 @@
+body {
+  font-family: 'Mrs Saint Delafield', cursive;
+}
+/* Applies style 900px and under */
+@media (max-width:900px) {
+  .image {
+      max-width: 50vw;
+      height: auto;}
+      body{
+        background-color: aquamarine;
+      }
+  }
 
-
-<link rel="stylesheet" href="style.css">
-
-<style>
 img{width: 300px;
     border-style: solid;
     border-color: blanchedalmond;
@@ -71,11 +79,7 @@ div .myself {
     display: block;
     align-items: center;
 }
-</style>
 
-
-<link href="https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap" rel="stylesheet" type="text/css">
-<style>
     .lavender-background{
         background-color:lavender
         
@@ -114,9 +118,7 @@ ul{font-weight: 2000;
 
 
 
-</style>
-<link href="https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap" rel="stylesheet" type="text/css">
-<style>
+
 
 img{width: 100px;
 border-radius:20px;
@@ -153,4 +155,3 @@ border-style: solid;
       color: white;
       padding: 1.00em;
     }
-</style>
